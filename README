@@ -1,4 +1,15 @@
-I did the homework by myself, and I did not change any default command.
-I tested my progeam using .score/test0-4.
+A shell that deals with file system operations.
+files are managed using inodes
+
+support:
+cd
+pwd
+ls
+lsr
+cat
+echo
+prompt
+rm
+rmr
 
 
